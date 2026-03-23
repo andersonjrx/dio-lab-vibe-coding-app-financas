@@ -44,8 +44,9 @@ O aplicativo busca resolver isso com uma experiência conversacional e recomenda
 - Linguagem acessível e educativa, em português.  
 - Garantia de Design Universal como requisito central.
 ```
+---
 
-Interações com o Lovable: 
+## 💬 Interações com o Lovable: 
 
 > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
 
